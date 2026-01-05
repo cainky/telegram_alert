@@ -232,4 +232,4 @@ alert.chat_ids     # All configured chat IDs
 
 ## License
 
-GPL-3.0
+GPL v3 License - see [LICENSE](LICENSE) for details.
